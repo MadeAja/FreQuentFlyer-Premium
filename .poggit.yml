@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/bali59/FreQuentFlyer-Premium
+build-by-default: true
+branches:
+- master
+projects:
+  FreQuentFlyer-Premium:
+    path: ""
+...
