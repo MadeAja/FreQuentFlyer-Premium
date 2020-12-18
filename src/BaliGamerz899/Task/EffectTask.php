@@ -28,7 +28,10 @@ class EffectTask extends Task{
                  return;
                  }
                  }
-           }
+              }else{  
+      
+                 $players->setAllowFlight(false);
+            }
    }
  }
  }
